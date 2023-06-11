@@ -1,2 +1,4 @@
-puts"Hello World"
-print "Hello World"
+ # *! outputs
+ puts"Hello World"
+ print "Hello World"
+
