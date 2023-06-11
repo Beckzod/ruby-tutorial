@@ -10,6 +10,6 @@ class Person
     end
   end
   
-  person = Person.new("John", 23)
+  person = Person.new("John", 24)
   person.say_hello
   
